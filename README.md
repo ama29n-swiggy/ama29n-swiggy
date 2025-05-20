@@ -10,10 +10,10 @@
   
   ```javascript
   const aman = {
-      age: "22 y.o.",
+      age: "23 y.o.",
       city: "New Delhi, India",
-      code: ["C", "C++", "JavaScript", "Java"],
-      askMeAbout: ["Web Engineering", "LLD", "Data Structures", "Algorithms"],
+      code: ["C", "C++", "JavaScript", "Java", "Go"],
+      askMeAbout: ["Web Engineering", "DSA", "Fitness"],
       technologies: {
           frontEnd: {
               html: true,
@@ -26,10 +26,10 @@
               java: ["Spring Boot"]
           },
           databases: ["SQL", "NoSQL"],
-          tools: ["Firebase", "GIT", "Postman"]
+          tools: ["Firebase", "GIT", "Postman", "Promethues", "AWS"]
       },
       currentFocus: "To be awesome",
-      hobbies: ["hitting the gym", "human psychology", "travelling"],
+      hobbies: ["hitting the gym", "reading human psychology", "travelling"],
       funFact: "I have a Engineering background, but most of the credit goes to Google, Stack Overflow and ChatGPT"
   };
   ```
