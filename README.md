@@ -20,7 +20,7 @@
           databases: ["SQL", "NoSQL"],
           tools: ["Firebase", "GIT", "Postman", "Promethues", "AWS"]
       },
-      currentFocus: "To be awesome",
+      currentFocus: "Dineout",
       hobbies: ["hitting the gym", "reading human psychology", "travelling"],
       funFact: "I have a Engineering background, but most of the credit goes to Google & Claude"
   };
